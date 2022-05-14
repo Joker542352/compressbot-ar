@@ -3,7 +3,7 @@
     "description": "A Normal Telegram Bot Which can Compress/encode/ Generate Samples of videos.",
     "logo": "",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/arunsingh-creator/CompressorBot",
+    "repository": "https://github.com/Joker542352/CompressorBot",
     "success_url": "https://t.me/Redclubx",
     "stack": "container",
     "env": {
